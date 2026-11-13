@@ -60,7 +60,7 @@ const TAB_ITEMS = [
   { name: "index", label: "Home" },
   { name: "analytics", label: "Chart" },
   { name: "transactions", label: "Stack" },
-  { name: "category", label: "category" },
+  { name: "category", label: "Category" },
   { name: "profile", label: "Profile" },
 ];
 

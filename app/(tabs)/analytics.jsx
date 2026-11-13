@@ -199,6 +199,7 @@ export default function AnalyticsScreen() {
                 borderTopLeftRadius: 46,
                 borderTopRightRadius: 46,
                 padding: 24,
+                marginBottom: -40
             }}
             >
             {/* We'll add the analytics content here next */}

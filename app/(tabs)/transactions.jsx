@@ -378,6 +378,7 @@ const months = ["April", "March", "February"];
           borderTopRightRadius: 42,
           paddingHorizontal: 24,
           paddingTop: 24,
+          marginBottom: -40
         }}
       >
         <ScrollView
